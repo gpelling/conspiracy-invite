@@ -25,8 +25,7 @@ jobs:
 
       - name: Prepare deploy directory
         run: |
-          mkdir -p deploy/conspiracy
-          cp -r out/. deploy/conspiracy/
+          cp -r out deploy
           cp public/CNAME deploy/CNAME
 
       - uses: peaceiris/actions-gh-pages@v4
