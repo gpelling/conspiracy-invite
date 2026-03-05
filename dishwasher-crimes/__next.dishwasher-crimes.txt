@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+3:I[37457,["/_next/static/chunks/2f236954d6a65e12.js"],"default"]
+:HL["https://fonts.googleapis.com/css2?family=Special+Elite&family=Rye&display=swap","style"]
+0:{"buildId":"8bBQ-urcXJjNy4yLP-6Uz","rsc":["$","$1","c",{"children":[null,[["$","link",null,{"href":"https://fonts.googleapis.com/css2?family=Special+Elite&family=Rye&display=swap","rel":"stylesheet"}],["$","style",null,{"children":"\n        body {\n          background: #5c4a2a !important;\n          color: #1a0a00 !important;\n          font-family: 'Special Elite', serif !important;\n          overflow: auto !important;\n          min-height: 100vh;\n        }\n      "}],["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]]}],"loading":null,"isPartial":false}

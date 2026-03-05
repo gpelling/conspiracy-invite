@@ -1,0 +1,4 @@
+:HL["/_next/static/chunks/58f1b4fb5a4d2a20.css","style"]
+:HL["https://fonts.googleapis.com/css2?family=VT323&display=swap","style"]
+:HL["https://fonts.googleapis.com/css2?family=Special+Elite&family=Rye&display=swap","style"]
+0:{"buildId":"8bBQ-urcXJjNy4yLP-6Uz","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"dishwasher-crimes","paramType":null,"paramKey":"dishwasher-crimes","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
